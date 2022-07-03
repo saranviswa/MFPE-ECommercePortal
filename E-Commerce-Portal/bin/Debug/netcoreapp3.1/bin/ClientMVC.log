@@ -1067,3 +1067,12 @@ INFO  07:51:47 StatusCode: 200, ReasonPhrase: 'OK', Version: 1.1, Content: Syste
 }
 INFO  07:51:47 fetching products from product microservice
 INFO  07:51:49 User is viewing cart
+INFO  07:52:54 Application started. Press Ctrl+C to shut down.
+INFO  07:52:54 Application started. Press Ctrl+C to shut down.
+INFO  07:52:54 Hosting environment: Development
+INFO  07:52:54 Hosting environment: Development
+INFO  07:52:54 Content root path: C:\Users\bsara\OneDrive\Desktop\Project\MFPE\Retail-Product-Management-main\Retail-Product-Management-main\E-Commerce-Portal\E-Commerce-Portal
+INFO  07:52:54 Content root path: C:\Users\bsara\OneDrive\Desktop\Project\MFPE\Retail-Product-Management-main\Retail-Product-Management-main\E-Commerce-Portal\E-Commerce-Portal
+INFO  07:52:54 Logger in Cart
+INFO  07:52:54 User is not logged in
+INFO  07:52:54 User is logging in
